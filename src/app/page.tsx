@@ -35,7 +35,6 @@ export default function LandingPage() {
         { name: "Contact", id: "contact" }
       ]}
       brandName="Love Consulting Services"
-      logoSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3CBGbboIMtOX8RWGiJBVajdKQEp/uploaded-1775854399616-xe9s3z7y.jpg"
     />
   </div>
 
