@@ -7,7 +7,6 @@ import FeatureCardTwentyFour from '@/components/sections/feature/FeatureCardTwen
 import FooterSimple from '@/components/sections/footer/FooterSimple';
 import HeroBillboardCarousel from '@/components/sections/hero/HeroBillboardCarousel';
 import NavbarStyleApple from '@/components/navbar/NavbarStyleApple/NavbarStyleApple';
-import TestimonialCardThirteen from '@/components/sections/testimonial/TestimonialCardThirteen';
 import TextAbout from '@/components/sections/about/TextAbout';
 
 export default function LandingPage() {
@@ -31,7 +30,6 @@ export default function LandingPage() {
         { name: "Home", id: "home" },
         { name: "About", id: "about" },
         { name: "Services", id: "services" },
-        { name: "Testimonials", id: "testimonials" },
         { name: "Contact", id: "contact" }
       ]}
       brandName="Love Consulting Services"
@@ -77,24 +75,6 @@ export default function LandingPage() {
       ]}
       title="Our Specialized Solutions"
       description="We bridge the gap between your goals and reality through tailored professional services."
-    />
-  </div>
-
-  <div id="testimonials" data-section="testimonials">
-      <TestimonialCardThirteen
-      animationType="slide-up"
-      textboxLayout="default"
-      useInvertedBackground={false}
-      showRating={true}
-      title="Trusted by Small Businesses"
-      description="Hear how Love Consulting Services transformed their operations."
-      testimonials={[
-        { id: "1", name: "Jane Doe", handle: "@janedoe", testimonial: "Exceptional service for our licensing needs.", rating: 5, imageSrc: "http://img.b2bpic.net/free-photo/cheerful-young-businesswoman-wearing-eyeglasses_1262-4761.jpg" },
-        { id: "2", name: "John Smith", handle: "@johnsmith", testimonial: "The web development was top-notch.", rating: 5, imageSrc: "http://img.b2bpic.net/free-photo/confident-handsome-middle-aged-entrepreneur_1262-4871.jpg" },
-        { id: "3", name: "Alice Brown", handle: "@aliceb", testimonial: "Marketing strategy turned our sales around.", rating: 5, imageSrc: "http://img.b2bpic.net/free-photo/businessman-smiling-camera_107420-95907.jpg" },
-        { id: "4", name: "Bob White", handle: "@bobwhite", testimonial: "Efficient and professional digital solutions.", rating: 5, imageSrc: "http://img.b2bpic.net/free-photo/happy-businesswoman-smiling-looking-camera-successful-confident-grey-haired-manager-sitting-office-room-workplace-business-management-concept_74855-7343.jpg" },
-        { id: "5", name: "Charlie Day", handle: "@charlied", testimonial: "Love Consulting makes business life easier.", rating: 5, imageSrc: "http://img.b2bpic.net/free-photo/people-having-dinner-luxurious-restaurants_23-2151081913.jpg" }
-      ]}
     />
   </div>
 
