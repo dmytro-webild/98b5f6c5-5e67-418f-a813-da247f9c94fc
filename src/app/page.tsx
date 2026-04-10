@@ -66,6 +66,9 @@ export default function LandingPage() {
       animationType="slide-up"
       textboxLayout="split"
       useInvertedBackground={true}
+      cardClassName="!bg-white !text-black border-0"
+      textBoxDescriptionClassName="!text-black font-medium opacity-100"
+      cardDescriptionClassName="!text-black"
       features={[
         { id: "s1", title: "Licensing", author: "Compliance", description: "Navigating regulatory landscapes with ease.", tags: ["Licensing", "Compliance"], imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3CBGbboIMtOX8RWGiJBVajdKQEp/a-professional-business-consultant-works-1775854071916-b7c1afec.png?_wi=2" },
         { id: "s2", title: "Web & App Development", author: "Tech", description: "Building custom digital experiences that drive value.", tags: ["Web", "Dev"], imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3CBGbboIMtOX8RWGiJBVajdKQEp/a-developer-working-on-app-code-high-end-1775854073276-67e16bab.png?_wi=2" },
@@ -111,7 +114,9 @@ export default function LandingPage() {
         }
       ]}
       bottomLeftText="© 2026 Love Consulting Services."
-      bottomRightText=""
+      bottomRightText="All rights reserved."
+      bottomLeftTextClassName="!opacity-100 !text-foreground"
+      bottomRightTextClassName="!opacity-100 !text-foreground"
     />
   </div>
       </ReactLenis>
