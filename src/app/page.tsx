@@ -34,7 +34,8 @@ export default function LandingPage() {
         { name: "Testimonials", id: "testimonials" },
         { name: "Contact", id: "contact" }
       ]}
-      brandName="Love Consulting"
+      brandName="Love Consulting Services"
+      logoSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3CBGbboIMtOX8RWGiJBVajdKQEp/uploaded-1775854399616-xe9s3z7y.jpg"
     />
   </div>
 
@@ -102,7 +103,7 @@ export default function LandingPage() {
       <ContactSplitForm
       useInvertedBackground={true}
       title="Get In Touch"
-      description="Ready to solve the 'how'? Let's work together."
+      description="Ready to solve the 'how'? Let's work together. Phone: (702) 762-0788 | Email: jacobhlove@icloud.com"
       inputs={[
         { name: "name", type: "text", placeholder: "Your Name", required: true },
         { name: "email", type: "email", placeholder: "Your Email", required: true }
@@ -130,7 +131,7 @@ export default function LandingPage() {
         }
       ]}
       bottomLeftText="© 2024 Love Consulting Services."
-      bottomRightText="All rights reserved."
+      bottomRightText="Contact: (702) 762-0788 | jacobhlove@icloud.com"
     />
   </div>
       </ReactLenis>
