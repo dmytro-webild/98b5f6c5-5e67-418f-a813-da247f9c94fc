@@ -46,12 +46,12 @@ export default function LandingPage() {
       tag="Expert Business Consultancy"
       buttons={[{ text: "Get Started", href: "#contact" }]}
       mediaItems={[
-        { imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3CBGbboIMtOX8RWGiJBVajdKQEp/a-professional-business-consultant-works-1775854071916-b7c1afec.png", imageAlt: "Workspace" },
-        { imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3CBGbboIMtOX8RWGiJBVajdKQEp/a-futuristic-digital-dashboard-data-visu-1775854071835-579ecde0.png", imageAlt: "Dashboard" },
-        { imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3CBGbboIMtOX8RWGiJBVajdKQEp/a-creative-marketing-strategy-session-wh-1775854072422-df01d47d.png", imageAlt: "Strategy" },
-        { imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3CBGbboIMtOX8RWGiJBVajdKQEp/a-professional-digital-marketing-adverti-1775854073260-faefd7c4.png", imageAlt: "Advertising" },
+        { imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3CBGbboIMtOX8RWGiJBVajdKQEp/a-professional-business-consultant-works-1775854071916-b7c1afec.png?_wi=1", imageAlt: "Workspace" },
+        { imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3CBGbboIMtOX8RWGiJBVajdKQEp/a-futuristic-digital-dashboard-data-visu-1775854071835-579ecde0.png?_wi=1", imageAlt: "Dashboard" },
+        { imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3CBGbboIMtOX8RWGiJBVajdKQEp/a-creative-marketing-strategy-session-wh-1775854072422-df01d47d.png?_wi=1", imageAlt: "Strategy" },
+        { imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3CBGbboIMtOX8RWGiJBVajdKQEp/a-professional-digital-marketing-adverti-1775854073260-faefd7c4.png?_wi=1", imageAlt: "Advertising" },
         { imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3CBGbboIMtOX8RWGiJBVajdKQEp/an-abstract-3d-representation-of-digital-1775854071865-a4e94f4c.png", imageAlt: "Connectivity" },
-        { imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3CBGbboIMtOX8RWGiJBVajdKQEp/a-developer-working-on-app-code-high-end-1775854073276-67e16bab.png", imageAlt: "Development" }
+        { imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3CBGbboIMtOX8RWGiJBVajdKQEp/a-developer-working-on-app-code-high-end-1775854073276-67e16bab.png?_wi=1", imageAlt: "Development" }
       ]}
     />
   </div>
@@ -69,11 +69,11 @@ export default function LandingPage() {
       textboxLayout="split"
       useInvertedBackground={true}
       features={[
-        { id: "s1", title: "Licensing", author: "Compliance", description: "Navigating regulatory landscapes with ease.", tags: ["Licensing", "Compliance"], imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3CBGbboIMtOX8RWGiJBVajdKQEp/a-professional-business-consultant-works-1775854071916-b7c1afec.png" },
-        { id: "s2", title: "Web & App Development", author: "Tech", description: "Building custom digital experiences that drive value.", tags: ["Web", "Dev"], imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3CBGbboIMtOX8RWGiJBVajdKQEp/a-developer-working-on-app-code-high-end-1775854073276-67e16bab.png" },
-        { id: "s3", title: "Marketing Strategy", author: "Marketing", description: "Crafting roadmaps that convert audiences to fans.", tags: ["Strategy", "Growth"], imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3CBGbboIMtOX8RWGiJBVajdKQEp/a-creative-marketing-strategy-session-wh-1775854072422-df01d47d.png" },
-        { id: "s4", title: "Advertising", author: "Marketing", description: "Targeted campaigns that maximize your ROI.", tags: ["Ad", "Growth"], imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3CBGbboIMtOX8RWGiJBVajdKQEp/a-professional-digital-marketing-adverti-1775854073260-faefd7c4.png" },
-        { id: "s5", title: "Digital-First Solutions", author: "Tech", description: "Modern infrastructure for a modern business.", tags: ["Digital"], imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3CBGbboIMtOX8RWGiJBVajdKQEp/a-futuristic-digital-dashboard-data-visu-1775854071835-579ecde0.png" }
+        { id: "s1", title: "Licensing", author: "Compliance", description: "Navigating regulatory landscapes with ease.", tags: ["Licensing", "Compliance"], imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3CBGbboIMtOX8RWGiJBVajdKQEp/a-professional-business-consultant-works-1775854071916-b7c1afec.png?_wi=2" },
+        { id: "s2", title: "Web & App Development", author: "Tech", description: "Building custom digital experiences that drive value.", tags: ["Web", "Dev"], imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3CBGbboIMtOX8RWGiJBVajdKQEp/a-developer-working-on-app-code-high-end-1775854073276-67e16bab.png?_wi=2" },
+        { id: "s3", title: "Marketing Strategy", author: "Marketing", description: "Crafting roadmaps that convert audiences to fans.", tags: ["Strategy", "Growth"], imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3CBGbboIMtOX8RWGiJBVajdKQEp/a-creative-marketing-strategy-session-wh-1775854072422-df01d47d.png?_wi=2" },
+        { id: "s4", title: "Advertising", author: "Marketing", description: "Targeted campaigns that maximize your ROI.", tags: ["Ad", "Growth"], imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3CBGbboIMtOX8RWGiJBVajdKQEp/a-professional-digital-marketing-adverti-1775854073260-faefd7c4.png?_wi=2" },
+        { id: "s5", title: "Digital-First Solutions", author: "Tech", description: "Modern infrastructure for a modern business.", tags: ["Digital"], imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3CBGbboIMtOX8RWGiJBVajdKQEp/a-futuristic-digital-dashboard-data-visu-1775854071835-579ecde0.png?_wi=2" }
       ]}
       title="Our Specialized Solutions"
       description="We bridge the gap between your goals and reality through tailored professional services."
