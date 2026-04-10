@@ -110,7 +110,7 @@ export default function LandingPage() {
           ]
         }
       ]}
-      bottomLeftText="© 2024 Love Consulting Services."
+      bottomLeftText="© 2026 Love Consulting Services."
       bottomRightText="Contact: (702) 762-0788 | jacobhlove@icloud.com"
     />
   </div>
