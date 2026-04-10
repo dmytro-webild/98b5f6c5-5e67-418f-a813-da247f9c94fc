@@ -58,19 +58,19 @@ export default function LandingPage() {
       ]}
       mediaItems={[
         {
-          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3CBGbboIMtOX8RWGiJBVajdKQEp/a-professional-business-consultant-works-1775854071916-b7c1afec.png",
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3CBGbboIMtOX8RWGiJBVajdKQEp/a-professional-business-consultant-works-1775854071916-b7c1afec.png?_wi=1",
           imageAlt: "Workspace",
         },
         {
-          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3CBGbboIMtOX8RWGiJBVajdKQEp/a-futuristic-digital-dashboard-data-visu-1775854071835-579ecde0.png",
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3CBGbboIMtOX8RWGiJBVajdKQEp/a-futuristic-digital-dashboard-data-visu-1775854071835-579ecde0.png?_wi=1",
           imageAlt: "Dashboard",
         },
         {
-          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3CBGbboIMtOX8RWGiJBVajdKQEp/a-creative-marketing-strategy-session-wh-1775854072422-df01d47d.png",
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3CBGbboIMtOX8RWGiJBVajdKQEp/a-creative-marketing-strategy-session-wh-1775854072422-df01d47d.png?_wi=1",
           imageAlt: "Strategy",
         },
         {
-          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3CBGbboIMtOX8RWGiJBVajdKQEp/a-professional-digital-marketing-adverti-1775854073260-faefd7c4.png",
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3CBGbboIMtOX8RWGiJBVajdKQEp/a-professional-digital-marketing-adverti-1775854073260-faefd7c4.png?_wi=1",
           imageAlt: "Advertising",
         },
         {
@@ -78,7 +78,7 @@ export default function LandingPage() {
           imageAlt: "Connectivity",
         },
         {
-          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3CBGbboIMtOX8RWGiJBVajdKQEp/a-developer-working-on-app-code-high-end-1775854073276-67e16bab.png",
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3CBGbboIMtOX8RWGiJBVajdKQEp/a-developer-working-on-app-code-high-end-1775854073276-67e16bab.png?_wi=1",
           imageAlt: "Development",
         },
       ]}
@@ -107,7 +107,7 @@ export default function LandingPage() {
             "Licensing",
             "Compliance",
           ],
-          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3CBGbboIMtOX8RWGiJBVajdKQEp/a-professional-business-consultant-works-1775854071916-b7c1afec.png",
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3CBGbboIMtOX8RWGiJBVajdKQEp/a-professional-business-consultant-works-1775854071916-b7c1afec.png?_wi=2",
         },
         {
           id: "s2",
@@ -118,7 +118,7 @@ export default function LandingPage() {
             "Web",
             "Dev",
           ],
-          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3CBGbboIMtOX8RWGiJBVajdKQEp/a-developer-working-on-app-code-high-end-1775854073276-67e16bab.png",
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3CBGbboIMtOX8RWGiJBVajdKQEp/a-developer-working-on-app-code-high-end-1775854073276-67e16bab.png?_wi=2",
         },
         {
           id: "s3",
@@ -129,7 +129,7 @@ export default function LandingPage() {
             "Strategy",
             "Growth",
           ],
-          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3CBGbboIMtOX8RWGiJBVajdKQEp/a-creative-marketing-strategy-session-wh-1775854072422-df01d47d.png",
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3CBGbboIMtOX8RWGiJBVajdKQEp/a-creative-marketing-strategy-session-wh-1775854072422-df01d47d.png?_wi=2",
         },
         {
           id: "s4",
@@ -140,7 +140,7 @@ export default function LandingPage() {
             "Ad",
             "Growth",
           ],
-          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3CBGbboIMtOX8RWGiJBVajdKQEp/a-professional-digital-marketing-adverti-1775854073260-faefd7c4.png",
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3CBGbboIMtOX8RWGiJBVajdKQEp/a-professional-digital-marketing-adverti-1775854073260-faefd7c4.png?_wi=2",
         },
         {
           id: "s5",
@@ -150,7 +150,7 @@ export default function LandingPage() {
           tags: [
             "Digital",
           ],
-          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3CBGbboIMtOX8RWGiJBVajdKQEp/a-futuristic-digital-dashboard-data-visu-1775854071835-579ecde0.png",
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3CBGbboIMtOX8RWGiJBVajdKQEp/a-futuristic-digital-dashboard-data-visu-1775854071835-579ecde0.png?_wi=2",
         },
       ]}
       title="Our Specialized Solutions"
