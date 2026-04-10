@@ -83,7 +83,7 @@ export default function LandingPage() {
       <ContactSplitForm
       useInvertedBackground={true}
       title="Get In Touch"
-      description="Ready to solve the 'how'? Let's work together. Phone: (702) 762-0788 | Email: jacobhlove@icloud.com"
+      description="Ready to solve the 'how'? Let's work together."
       inputs={[
         { name: "name", type: "text", placeholder: "Your Name", required: true },
         { name: "email", type: "email", placeholder: "Your Email", required: true }
@@ -111,7 +111,7 @@ export default function LandingPage() {
         }
       ]}
       bottomLeftText="© 2026 Love Consulting Services."
-      bottomRightText="Contact: (702) 762-0788 | jacobhlove@icloud.com"
+      bottomRightText=""
     />
   </div>
       </ReactLenis>
