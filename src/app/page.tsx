@@ -44,7 +44,7 @@ export default function LandingPage() {
       title="Solving the 'How' for Small Businesses"
       description="Love Consulting Services provides strategic digital-first solutions to help your business scale, manage, and succeed."
       tag="Expert Business Consultancy"
-      buttons={[{ text: "Get Started", href: "#contact" }]}
+      buttons={[{ text: "Schedule a Consultation", href: "#contact" }]}
       mediaItems={[
         { imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3CBGbboIMtOX8RWGiJBVajdKQEp/a-professional-business-consultant-works-1775854071916-b7c1afec.png?_wi=1", imageAlt: "Workspace" },
         { imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3CBGbboIMtOX8RWGiJBVajdKQEp/a-futuristic-digital-dashboard-data-visu-1775854071835-579ecde0.png?_wi=1", imageAlt: "Dashboard" },
