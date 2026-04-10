@@ -75,6 +75,7 @@ export default function LandingPage() {
       ]}
       title="Our Specialized Solutions"
       description="We bridge the gap between your goals and reality through tailored professional services."
+      buttons={[{ text: "Initiate Contact", href: "#contact" }]}
     />
   </div>
 
